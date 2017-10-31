@@ -4,9 +4,18 @@ Repository to keep track of different recommendations from the DevHelps WhatsApp
 ## Index
 
 * [Podcasts](#podcasts)
+* [Tools](#tools)
 
+## Tools
+### Windows
+- [ConEmu](https://conemu.github.io/) - Windows console emulator with tabs
+- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows you to configure various aspects of the Windows taskbar
+### Mac
+- [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease
+- [RedQuits](http://www.carsten-mielke.com/redquits.html) - All programs now quit and close all open windows if you click the red button
+- [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal 
 
-### Podcasts
+## Podcasts
 
 Description | Language | Link |
 |---|---|--|
