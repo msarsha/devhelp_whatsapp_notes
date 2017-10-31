@@ -1,5 +1,6 @@
-Repository to keep track of different recommendations from the DevHelps Whatsapp group
+Repository to keep track of different recommendations from the DevHelps WhatsApp groups
 
+![alt text](https://image.ibb.co/bwTxNb/Dev_Helps_logo_small.png "DevHelps")
 ## Index
 
 * [Podcasts](#podcasts)
