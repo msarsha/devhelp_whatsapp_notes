@@ -5,18 +5,26 @@ Repository to keep track of different recommendations from the DevHelps WhatsApp
 
 * [Podcasts](#podcasts)
 * [Tools](#tools)
+  * [Windows](#windows)
+  * [Mac](#mac)
 
 ## Tools
 ### Windows
-- [ConEmu](https://conemu.github.io/) - Windows console emulator with tabs
-- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows you to configure various aspects of the Windows taskbar
-- [Everything](https://www.voidtools.com/downloads/) - Allows you to search your computer for pretty much anything
-- [AutoHotKey](https://autohotkey.com/) - A tool for configuring clever macros/keyboard shortcuts etc, using a dedicated scripting language
+
+Name | Description | Link |
+|---|---|--|
+| ConEmu | Windows console emulator with tabs | [link](https://conemu.github.io/) |
+| 7+ Taskbar Tweaker | Allows you to configure various aspects of the Windows taskbar | [link](http://rammichael.com/7-taskbar-tweaker) |
+| Everything | Allows you to search your computer for pretty much anything | [link](https://www.voidtools.com/downloads/) |
+| AutoHotKey | A tool for configuring clever macros/keyboard shortcuts etc, using a dedicated scripting language | [link](https://autohotkey.com/) |
 
 ### Mac
-- [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease
-- [RedQuits](http://www.carsten-mielke.com/redquits.html) - All programs now quit and close all open windows if you click the red button
-- [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal 
+Name | Description | Link |
+|---|---|--|
+| Spectacle | Move and resize windows with ease | [link](https://www.spectacleapp.com/) |
+| RedQuits | All programs now quit and close all open windows if you click the red button | [link](http://www.carsten-mielke.com/redquits.html) |
+| iTerm | iTerm2 is a replacement for Terminal  | [link](https://www.iterm2.com/) |
+
 
 ## Podcasts
 
