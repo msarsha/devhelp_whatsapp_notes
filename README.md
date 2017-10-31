@@ -10,6 +10,9 @@ Repository to keep track of different recommendations from the DevHelps WhatsApp
 ### Windows
 - [ConEmu](https://conemu.github.io/) - Windows console emulator with tabs
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows you to configure various aspects of the Windows taskbar
+- [Everything](https://www.voidtools.com/downloads/) - Allows you to search your computer for pretty much anything
+- [AutoHotKey](https://autohotkey.com/) - A tool for configuring clever macros/keyboard shortcuts etc, using a dedicated scripting language
+
 ### Mac
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - All programs now quit and close all open windows if you click the red button
@@ -27,3 +30,5 @@ Description | Language | Link |
 | Software Engineering Daily | English | [link](https://softwareengineeringdaily.com/) |
 | Geekonomy | Hebrew | [link](https://geekonomy.net/) |
 | Shavua | Hebrew | [link](http://www.shavua.net/) |
+| Reversim | Hebrew | [link](http://www.reversim.com/) |
+| No Tarbut | Hebrew | [link](http://notarbut.co/) |
