@@ -7,6 +7,7 @@ Repository to keep track of different recommendations from the DevHelps WhatsApp
 * [Tools](#tools)
   * [Windows](#windows)
   * [Mac](#mac)
+* [Online Courses](#online-courses)
 
 ## Tools
 ### Windows
@@ -40,3 +41,11 @@ Description | Language | Link |
 | Shavua | Hebrew | [link](http://www.shavua.net/) |
 | Reversim | Hebrew | [link](http://www.reversim.com/) |
 | No Tarbut | Hebrew | [link](http://notarbut.co/) |
+
+
+## Online Courses
+
+Name | Link |
+|---|---|--|
+| Pluralsight | [link](https://www.pluralsight.com/) |
+| Frontend Masters | [link](https://frontendmasters.com) |
