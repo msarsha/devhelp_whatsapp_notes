@@ -46,6 +46,6 @@ Description | Language | Link |
 ## Online Courses
 
 Name | Link |
-|---|---|--|
+|---|---|
 | Pluralsight | [link](https://www.pluralsight.com/) |
 | Frontend Masters | [link](https://frontendmasters.com) |
