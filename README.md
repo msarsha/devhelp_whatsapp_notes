@@ -27,6 +27,17 @@ Name | Description | Link |
 | iTerm | iTerm2 is a replacement for Terminal  | [link](https://www.iterm2.com/) |
 
 
+### Visual Studio Code Extensions
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - git blame annotations, code lens and more
+- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
+- [id-generator](https://marketplace.visualstudio.com/items?itemName=matt-williams-centric.id-generator) - Generate auto-incremented IDs for sample data starting from specified number
+- [swap-word](https://marketplace.visualstudio.com/items?itemName=davidmart.swap-word) - Command for quick word swtiching in VSCode
+
+
+
 ## Podcasts
 
 Description | Language | Link |
